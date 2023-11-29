@@ -1,2 +1,9 @@
-# flutter_drawer_inkwell_usage
-In this project, work has been done on the 'Drawer' and 'Inkwell' widgets.
+# Flutter Project 2022
+
+## In this project, work has been done on the 'Drawer' and 'Inkwell' widgets.
+
+-Inkwell widget,
+-Drawer widget,
+-PageView widget,
+-TabBarView widget,
+-BottomNavigation Usage.
